@@ -1,4 +1,4 @@
-# Hi there, I'm Raj! 👋
+# Hi there, I'm Prince Raj! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer always eager to learn and explore new technologies. Here you'll find a collection of projects and repositories I've worked on. Feel free to check them out and contribute if you'd like!
 
@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 
 ## 📈 GitHub Stats
 
-![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=xDPrinceRaj&show_icons=true&theme=radical)
+![Prince Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=xDPrinceRaj&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
 
