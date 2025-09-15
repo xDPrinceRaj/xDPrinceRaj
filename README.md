@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prince Raj
 
-🎓 Engineering Student | 📚 IITM BSc Data Science & AI (Foundation)  
+🎓 Engineering Student | 📚 IITM BS Degree Data Science & AI (Foundation)  
 
 💻 Aspiring Full-Stack Developer | Learning Today, Building Tomorrow  
 
