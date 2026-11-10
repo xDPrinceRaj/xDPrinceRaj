@@ -61,7 +61,7 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=xDPrinceRaj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090014&title_color=BB86FC&icon_color=00C6FF&text_color=E6E6FA" />
+<!-- <img width="49%" src="https://github-stats-extended.vercel.app/api?username=xDPrinceRaj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090014&title_color=BB86FC&icon_color=00C6FF&text_color=E6E6FA" /> -->
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDPrinceRaj&layout=compact&theme=tokyonight&hide_border=true&bg_color=090014&title_color=BB86FC&text_color=E6E6FA" />
 
@@ -79,7 +79,7 @@
 
 <a href="https://x.com/xDPrinceRaj">
 <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
+</a> 
 
 <a href="https://instagram.com/xDPrinceRaj">
 <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
