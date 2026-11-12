@@ -78,23 +78,23 @@
 <div align="center">
 
 <a href="https://x.com/xDPrinceRaj">
-<img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-0D0B14?style=for-the-badge&logo=X&logoColor=E0AAFF"/>
 </a> 
 
 <a href="https://instagram.com/xDPrinceRaj">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-0D0B14?style=for-the-badge&logo=instagram&logoColor=E0AAFF"/>
 </a>
 
 <a href="https://github.com/xDPrinceRaj">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0D0B14?style=for-the-badge&logo=github&logoColor=E0AAFF"/>
 </a>
 
 <a href="mailto:xdprinceraj@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-0D0B14?style=for-the-badge&logo=gmail&logoColor=E0AAFF"/>
 </a>
 
 <a href="https://t.me/xDPrinceRaj">
-<img src="https://img.shields.io/badge/Telegram-Connect-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Telegram-0D0B14?style=for-the-badge&logo=Telegram&logoColor=E0AAFF"/>
 </a>
 
 </div>
